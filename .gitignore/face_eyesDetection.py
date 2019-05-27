@@ -1,4 +1,3 @@
-@@ -0,0 +1,32 @@
 import cv2 
 import numpy as np 
 
